@@ -4,6 +4,7 @@
 > Perfect for learning blockchain fundamentals and experimenting with smart contracts on Ethereum testnets.
 
 ---
+<img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/1b0e78f3-6196-4790-b7c8-75830448d687" />
 
 ## 🚀 Project Description  
 
