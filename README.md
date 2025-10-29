@@ -38,6 +38,11 @@ The project can be easily deployed, tested, or extended for educational or real-
 
 ---
 
+## 🚀 Deployed Smart Contract
+
+**Network:** Celo Sepolia Testnet  
+**Contract Address:** [`0xF14d4a63C8D28ff6C4d26c7005014Ef2A179b7BF`](https://celo-sepolia.blockscout.com/tx/0x92f66796ab57e334dea4001fd3cd7acc456a883297eaa21400917bc0c6810325)
+
 ## 🧱 Smart Contract Code  
 
 ```solidity
